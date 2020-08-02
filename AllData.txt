@@ -1,0 +1,88 @@
+**********************************************
+User name : Nimesh
+**********************************************
+CARROT SOUP                   1		40
+TOMATO SOUP                   2		45
+BASUNDI                       3		85
+RABDI                         8		80
+COCA COLA                     1		30
+SPRITE                        2		20
+PEPSI                         4		30
+MINERAL WATER                 1		20
+**********************************************
+Total                                  1235
+GST                                     +5%
+Discount point is                        2
+Discount                                -2%
+Total amount to pay                 1272.05
+**********************************************
+**********************************************
+User name : Nimesh
+**********************************************
+COCA COLA                     1		30
+FANTA                         1		20
+SPRITE                        1		20
+PEPSI                         1		30
+THUMS UP                      1		25
+COFFEE                        1		20
+MILK                          1		15
+TEA                           1		25
+MINERAL WATER                 1		20
+BASUNDI                       1		85
+JALEBI                        1		60
+CHOCOBAR                      1		30
+CHOCOLATE ICE-CREAM           1		55
+ROSE ICE-CREAM                1		50
+**********************************************
+Total                                   485
+GST                                     +5%
+Discount point is                        3
+Discount                                -3%
+Total amount to pay                   494.7
+**********************************************
+**********************************************
+User name : Nimesh
+**********************************************
+CHEESE N CORN                 1		179
+PANEER MAKHANI                2		309
+**********************************************
+Total                                   797
+GST                                     +5%
+Discount point is                        7
+Discount                                -7%
+Total amount to pay                  781.06
+**********************************************
+**********************************************
+User name : Nimesh
+**********************************************
+DELUXE VEGGIE                 3		509
+**********************************************
+Total                                  1527
+GST                                     +5%
+Discount point is                        7
+Discount                                -7%
+Total amount to pay                 1496.46
+**********************************************
+**********************************************
+User name : Nimesh
+**********************************************
+VEG EXTRAVEGANZA              1		809
+VEG EXTRAVEGANZA              2		809
+**********************************************
+Total                                  2427
+GST                                     +5%
+Discount point is                        8
+Discount                                -8%
+Total amount to pay                 2354.19
+**********************************************
+**********************************************
+User name : Nimesh666
+**********************************************
+FARM HOUSE                    1		379
+**********************************************
+Total                                   379
+GST                                     +5%
+Discount point is                        1
+Discount                                -1%
+Total amount to pay                  394.16
+**********************************************
